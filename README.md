@@ -1,2 +1,2 @@
-# demo-js-project
+# demo-js-projects
 1st Project
